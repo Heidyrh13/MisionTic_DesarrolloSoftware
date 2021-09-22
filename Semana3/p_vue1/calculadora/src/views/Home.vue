@@ -5,15 +5,6 @@
         <calculadora-basica/>
       </v-col>
     </v-row>
-    <v-row>
-      <v-col>
-        <v-btn
-          color ="primary"
-          elevation ="2"
-          @click="paso1()"
-          >About</v-btn>
-      </v-col>
-    </v-row>
   </v-container>
 </template>
 
@@ -27,10 +18,7 @@ export default {
     CalculadoraBasica
   },
   methods: {
-    paso1(){
-      console.log("clic en botón About")
-      this.$router.push("/About");
-    }
+  
   }
 
 }
