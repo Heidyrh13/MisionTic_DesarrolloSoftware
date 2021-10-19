@@ -1,15 +1,17 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <mi-componente />
+  <mi-componente/>
 </template>
 
 <script>
 import MiComponente from './components/MiComponente.vue'
 
+
 export default {
   name: 'App',
   components: {
     MiComponente
+    
   }
 }
 </script>

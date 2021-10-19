@@ -1,17 +1,16 @@
 <template>
-    <h1>Mi Componente </h1>
-    <p>
-        We offer you here some texts on various interesting subjects. You can practise reading comprehension and at the same time you will certainly learn something new.
-        Each text is identified with an icon showing the level of English used on it. You will also find some questions to answer at the end of some texts to test your comprehension.
-    </p>
+  <h1>Mi Componente</h1>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro unde
+    similique est voluptatibus quam culpa incidunt dicta eos, quibusdam dolore
+    esse delectus quis voluptatem magni id temporibus nulla odio cum.
+  </p>
 </template>
 
 <script>
-
 export default {
 };
 </script>
 
 <style>
-
 </style>

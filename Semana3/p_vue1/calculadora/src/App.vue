@@ -4,10 +4,9 @@
       <div id="nav">
         <router-link to="/">Home</router-link> |
         <router-link to="/about">About</router-link> |
-        <router-link to="/Personajes">Personajes</router-link>
+        <router-link to="/personajes">Personajes</router-link>
       </div>
-      <router-view/> 
+      <router-view/>
     </div>
   </v-app>
 </template>
-
